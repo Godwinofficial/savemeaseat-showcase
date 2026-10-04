@@ -67,7 +67,6 @@ The platform is being developed toward a broader event management system where u
 ## Screenshots
 
 ### Digital Invitation
-### Digital Invitation
 
 <table>
 <tr>
