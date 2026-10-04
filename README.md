@@ -90,10 +90,10 @@ The platform is being developed toward a broader event management system where u
 
 ### Event Dashboard
 
-<img width="645" height="1398" alt="IMG_1230" src="https://github.com/user-attachments/assets/08591f91-ddbc-45a5-981f-baecd948ed8e" width="220 />
+<img width="645" height="1398" alt="IMG_1230" src="https://github.com/user-attachments/assets/08591f91-ddbc-45a5-981f-baecd948ed8e" />
 
 ### QR Guest Verification
-<img width="1170" height="2145" alt="IMG_1231" src="https://github.com/user-attachments/assets/6ad8dc2f-d8ec-4617-89a6-61e67de0353a" width="220 />
+<img width="1170" height="2145" alt="IMG_1231" src="https://github.com/user-attachments/assets/6ad8dc2f-d8ec-4617-89a6-61e67de0353a" />
 
 ---
 
